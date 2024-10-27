@@ -6,7 +6,7 @@ Adversarial inputs are generated for a DNN composed of 5 fully connected layers 
 
 This model achieved 95% accuracy on the test dataset. 
 
-With our implementation we generated 326 adversarial inputs out of 5000 images of the test set.
+This implementation of DLFuzz generated 326 adversarial inputs out of 5000 images of the test set.
 
 ## Examples
 
