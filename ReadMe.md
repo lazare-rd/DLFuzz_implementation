@@ -10,10 +10,10 @@ With our implementation we generated 326 adversarial inputs out of 5000 images o
 
 ## Examples
 
-![capture 1](capture_1.png)
+![capture 1](images/capture_1.png)
 ***Left** is adversarial input recognised as 9, **right** is original input recognized as 4*
 
-![capture 2](capture_2.png)
+![capture 2](images/capture_2.png)
 ***Left** is adversarial input wrongly recognised as 8, **right** is original input recognized as 9*
 
 ## Next
