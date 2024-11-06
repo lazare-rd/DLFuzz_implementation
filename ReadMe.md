@@ -20,4 +20,4 @@ Each adversarial input has an L2 distance with the original input bounded by 0.0
 
 ## Next
 
-Next step would be to generate adversarials inputs for a Convolutionnal Neural Network which could achieve much higher accuracy than the DNN used here.
+Next step would be to generate adversarials inputs for a Convolutionnal Neural Networks
